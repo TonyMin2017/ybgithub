@@ -8,5 +8,6 @@ public class Test {
         System.out.println("this is a just test...");
         System.out.println("hehe,kaka,haha,,,");
         System.out.println("this is very good.");
+        System.out.println("太好用了！");
     }
 }
